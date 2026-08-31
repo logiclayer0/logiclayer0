@@ -1,20 +1,37 @@
-# Hi 👋, I'm Mahek Bajpai
+Markdown
+<div align="center">
 
-### A passionate developer
+# ✨ MAHEK BAJPAI
+### 🔮 *Crafting Digital Magic • AI-ML Scholar • Intelligent Systems Architect*
 
-- 🔭 I'm currently working on **B.TECH STUDENT (CSE-AIML)**
+```text
+"Silence isn't empty; it's where the most complex architectures are built."
+🌌 About Me
+Plaintext
+┌─── [mahek@logiclayer0 ~]
+├── 🎓 Academic Focus   : B.Tech CSE (Artificial Intelligence & Machine Learning)
+├── 💡 Core Mission    : Building accessible, high-impact AI tools for student productivity & growth
+├── 🧠 Superpower      : Introverted depth — quiet observation, deep focus, and high-frequency imagination
+├── 🌱 Currently       : Exploring the space where logic meets raw imagination to turn data into intuition
+└── ⚡ Energy Fuel     : Early mornings, zero-distraction focus, and limitless curiosity
+🔮 The Alchemical Fusion: Logic & Magic
+"I view algorithms not just as cold lines of code, but as modern spellcasting—turning raw data into intuitive digital intelligence."
 
-- 🌱 I'm currently learning **Exploring the space where logic meets raw imagination — crafting smart algorithms that turn data into intuition.**
+Student-Centric Innovation: Dedicated to materializing AI systems that directly optimize student life, study routines, and cognitive workflows.
 
-- 📫 How to reach me **mahekbajpai24@gmail.com**
+Introverted Depth: Utilizing quiet observation as an engine to spot hidden patterns and solve real human friction.
 
-- ⚡ Fun fact **Powered by early mornings, deep imagination, and zero-distraction focus.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/logiclayer0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="logiclayer0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahek-bajpai-96304b403/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahek-bajpai-96304b403/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
+🌌 What's Driving My Curiosity?
+JSON
+{
+  "creative_mindset": "Limitless Imagination",
+  "focus_areas": [
+    "AI Vision & Assistive Tech",
+    "Smart Productivity Engines for Students",
+    "Human-AI Collaborative Interfaces"
+  ],
+  "philosophy": "Observe quietly, build intentionally, transform deeply."
+}
+🛠️ Technical Arsenal
+📈 GitHub Analytics
+“Quiet minds craft the most magical algorithms.”
