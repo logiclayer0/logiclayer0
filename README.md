@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>✨ MAHEK BAJPAI ✨</h1>
-  <h3> <i>Crafting Digital Magic • AI-ML Scholar • Intelligent Systems Architect</i></h3>
+  <h3><i>Crafting Digital Magic • AI-ML Scholar • Intelligent Systems Architect</i></h3>
 
   <p>
     <a href="https://www.linkedin.com/in/mahek-bajpai-96304b403/" target="_blank">
@@ -35,29 +35,17 @@
 
 <h2>🌌 The Alchemical Fusion: Logic & Magic</h2>
 
-• Viewing algorithms as modern spellcasting—turning raw data into intuitive digital intelligence
+• Turning raw data into intuitive digital intelligence
 
-• Architecting experiences where technology feels like second nature
-
-• Working at the intersection of computational precision and creative intuition
+• Architecting experiences at the intersection of precision and creativity
 
 <hr />
 
 <h2>🚀 Student-Centric Innovation</h2>
 
-• Building AI systems that optimize student life, study routines, and cognitive workflows
+• Building AI systems that understand and optimize student life
 
-• Creating tools that understand students, not tools they have to understand
-
-<b>Current Explorations :</b>
-
-• 🧠 Intelligent Study Assistants adapting to individual learning patterns
-
-• 📊 Smart Analytics transforming academic data into actionable insights
-
-• 🤖 AI-Powered Productivity Engines minimizing friction and maximizing flow states
-
-• 🎯 Assistive Technologies making learning accessible to everyone
+• Creating tools that minimize friction and maximize learning flow
 
 <hr />
 
@@ -65,13 +53,7 @@
 
 <b>Creative Mindset :</b> Limitless Imagination
 
-<b>Focus Areas :</b>
-
-• AI Vision & Assistive Tech
-
-• Smart Productivity Engines for Students
-
-• Human-AI Collaborative Interfaces
+<b>Focus Areas :</b> AI Vision, Student Productivity, Human-AI Collaboration
 
 <b>Philosophy :</b> Observe quietly, build intentionally, transform deeply.
 
@@ -99,11 +81,9 @@
 
 <h2>Current Incantation</h2>
 
-• Exploring where logic meets raw imagination
-
 • Crafting smart algorithms that turn data into intuition
 
-• Every project is a new spellbook, every challenge a puzzle
+• Every challenge is a puzzle waiting to be solved with elegance
 
 <hr />
 
