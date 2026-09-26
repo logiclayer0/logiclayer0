@@ -1,11 +1,9 @@
 <div align="center">
 
-  <!-- Animated Typing Header -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Mahek+Bajpai+%E2%9C%A8;AI-ML+Scholar+%7C+Intelligent+Systems+Architect;Crafting+Digital+Magic+with+Logic+%26+Imagination;Building+AI+tools+for+student+productivity" alt="Typing SVG" />
 
   <h3><i>⚡ Turning raw data into intuitive intelligence ⚡</i></h3>
 
-  <!-- Badges -->
   <p>
     <a href="https://www.linkedin.com/in/mahek-bajpai-96304b403/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -19,7 +17,6 @@
     <img src="https://komarev.com/ghpvc/?username=logiclayer0&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
-  <!-- Divider -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%" />
 
 </div>
@@ -57,15 +54,13 @@
 
 <div align="center">
 
-  <!-- GitHub Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=logiclayer0&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=FF6B6B&currStreakLabel=8B5CF6" alt="GitHub Streak" />
 
   <br /><br />
 
-  <!-- Highest Streak Badge (manually highlighted) -->
-  <img src="https://img.shields.io/badge/🏆_HIGHEST_STREAK-17_DAYS-FFD700?style=for-the-badge&labelColor=0D1117" alt="Highest Streak 17 Days" />
-  <img src="https://img.shields.io/badge/📅_BEST_MONTH-Aug--Sep_2026-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Best Month" />
-  <img src="https://img.shields.io/badge/🔥_CONSISTENCY-DAILY_COMMITS-FF6B6B?style=for-the-badge&labelColor=0D1117" alt="Daily Commits" />
+  <img src="https://img.shields.io/badge/🏆_LONGEST_STREAK-29_DAYS-FFD700?style=for-the-badge&labelColor=0D1117" alt="Longest Streak 29 Days" />
+  <img src="https://img.shields.io/badge/🔥_CURRENT_STREAK-29_DAYS-FF6B6B?style=for-the-badge&labelColor=0D1117" alt="Current Streak 29 Days" />
+  <img src="https://img.shields.io/badge/📅_STREAK_PERIOD-Aug_29_–_Sep_26-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Streak Period" />
   <img src="https://img.shields.io/badge/💎_DISCIPLINE-ZERO_DISTRACTION-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Discipline" />
 
   <br /><br />
@@ -181,7 +176,6 @@ class MahekBajpai:
 
 <div align="center">
 
-  <!-- Footer Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" />
 
   <p>🌟 <i>"Powered by early mornings, deep imagination, and zero-distraction focus."</i> 🌟</p>
