@@ -14,7 +14,6 @@
     <a href="https://github.com/logiclayer0">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=logiclayer0&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%" />
@@ -50,18 +49,17 @@
 
 <hr />
 
-<h2>🔥 Streak & Contribution Highlights</h2>
+<h2>🔥 Streak Highlights</h2>
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=logiclayer0&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=FF6B6B&currStreakLabel=8B5CF6" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=logiclayer0&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=FF6B6B&currStreakLabel=8B5CF6&hide_total_contributions=true" alt="GitHub Streak" />
 
   <br /><br />
 
-  <img src="https://img.shields.io/badge/🏆_LONGEST_STREAK-29_DAYS-FFD700?style=for-the-badge&labelColor=0D1117" alt="Longest Streak 29 Days" />
   <img src="https://img.shields.io/badge/🔥_CURRENT_STREAK-29_DAYS-FF6B6B?style=for-the-badge&labelColor=0D1117" alt="Current Streak 29 Days" />
-  <img src="https://img.shields.io/badge/📅_STREAK_PERIOD-Aug_29_–_Sep_26-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Streak Period" />
-  <img src="https://img.shields.io/badge/💎_DISCIPLINE-ZERO_DISTRACTION-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Discipline" />
+  <img src="https://img.shields.io/badge/🏆_LONGEST_STREAK-29_DAYS-FFD700?style=for-the-badge&labelColor=0D1117" alt="Longest Streak 29 Days" />
+  <img src="https://img.shields.io/badge/📅_Aug_29_–_Sep_26-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Streak Period" />
 
   <br /><br />
 
@@ -134,27 +132,26 @@
 <h2>📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=logiclayer0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logiclayer0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Top Languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=logiclayer0&theme=tokyonight" alt="Profile Details" width="100%" />
+  <br /><br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=logiclayer0&theme=tokyonight" alt="Repos Per Language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=logiclayer0&theme=tokyonight" alt="Most Commit Language" width="49%" />
 </div>
 
 <hr />
 
-<h2>🔮 Current Incantation</h2>
+<h2>🔮 Mindset in Motion</h2>
 
-<pre>
-class MahekBajpai:
-    def __init__(self):
-        self.focus      = ["AI Vision", "Student Productivity", "Human-AI Collab"]
-        self.philosophy = "Observe quietly, build intentionally, transform deeply."
-        self.fuel       = "Early mornings + Zero-distraction focus"
-
-    def current_quest(self):
-        return "Crafting smart algorithms that turn data into intuition"
-
-    def mantra(self):
-        return "Every challenge is a puzzle waiting to be solved with elegance."
-</pre>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">🎯 <b>Focus</b><br/>AI Vision</td>
+      <td align="center">🧠 <b>Philosophy</b><br/>Observe · Build · Transform</td>
+      <td align="center">⚡ <b>Fuel</b><br/>Early Mornings + Deep Focus</td>
+      <td align="center">✨ <b>Mantra</b><br/>Solve every puzzle with elegance</td>
+    </tr>
+  </table>
+</div>
 
 <hr />
 
