@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Mahek+Bajpai+%E2%9C%A8;AI-ML+Scholar+%7C+Intelligent+Systems+Architect;Crafting+Digital+Magic+with+Logic+%26+Imagination;Building+AI+tools+for+student+productivity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=800&color=58A6FF&center=true&vCenter=true&width=900&height=50&lines=Hi%2C+I'm+Mahek+Bajpai;AI-ML+Scholar+%7C+Intelligent+Systems+Architect;Crafting+Logic+%26+Imagination;Building+AI+tools+for+students" alt="Typing SVG" />
 
   <h3><i>⚡ Turning raw data into intuitive intelligence ⚡</i></h3>
 
@@ -53,13 +53,13 @@
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=logiclayer0&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=F59E0B&currStreakLabel=06B6D4&hide_total_contributions=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=logiclayer0&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F59E0B&currStreakLabel=58A6FF&hide_total_contributions=true" alt="GitHub Streak" />
 
   <br /><br />
 
   <img src="https://img.shields.io/badge/🔥_CURRENT_STREAK-29_DAYS-F59E0B?style=for-the-badge&labelColor=0D1117" alt="Current Streak 29 Days" />
   <img src="https://img.shields.io/badge/🏆_LONGEST_STREAK-29_DAYS-FFD700?style=for-the-badge&labelColor=0D1117" alt="Longest Streak 29 Days" />
-  <img src="https://img.shields.io/badge/📅_Aug_29_–_Sep_26-06B6D4?style=for-the-badge&labelColor=0D1117" alt="Streak Period" />
+  <img src="https://img.shields.io/badge/📅_Aug_29_–_Sep_26-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Streak Period" />
 
   <br /><br />
 
