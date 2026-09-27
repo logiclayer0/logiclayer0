@@ -49,15 +49,21 @@
 
 <hr />
 
-<h2>🔥 Streak & Contribution Highlights</h2>
+<h2>🔥 Streak Highlights</h2>
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=logiclayer0&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F59E0B&currStreakLabel=58A6FF&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=logiclayer0&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F59E0B&currStreakLabel=58A6FF&hide_total_contributions=true" alt="GitHub Streak" />
 
   <br /><br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=logiclayer0&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=F59E0B&point=FFFFFF&area=true&area_color=58A6FF" alt="Contribution Graph" width="100%" />
+  <img src="https://img.shields.io/badge/🔥_CURRENT_STREAK-29_DAYS-F59E0B?style=for-the-badge&labelColor=0D1117" alt="Current Streak 29 Days" />
+  <img src="https://img.shields.io/badge/🏆_LONGEST_STREAK-29_DAYS-FFD700?style=for-the-badge&labelColor=0D1117" alt="Longest Streak 29 Days" />
+  <img src="https://img.shields.io/badge/📅_Aug_29_–_Sep_26-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Streak Period" />
+
+  <br /><br />
+
+  <i>🌟 <b>"Powered by early mornings, deep imagination, and zero-distraction focus."</b> 🌟</i>
 
 </div>
 
