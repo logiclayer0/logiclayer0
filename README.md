@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td>💡 <b>Core Mission</b></td>
-    <td>Building accessible, high-impact AI tools for student productivity & growth</td>
+    <td>Building accessible, high-impact AI tools for Student productivity & growth</td>
   </tr>
   <tr>
     <td>🧠 <b>Superpower</b></td>
