@@ -170,7 +170,6 @@
 </p>
 
 <hr />
-
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" width="100%" />
