@@ -126,22 +126,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/>
 </p>
-
 <hr />
-
 <h2>📊 GitHub Analytics</h2>
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=logiclayer0&theme=tokyonight" alt="Profile Details" width="100%" />
   <br /><br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=logiclayer0&theme=tokyonight" alt="Repos Per Language" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=logiclayer0&theme=tokyonight" alt="Most Commit Language" width="49%" />
 </div>
-
 <hr />
-
 <h2>🔮 Mindset in Motion</h2>
-
 <div align="center">
   <table>
     <tr>
@@ -152,11 +146,8 @@
     </tr>
   </table>
 </div>
-
 <hr />
-
 <h2>🌐 Connect With Me</h2>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/mahek-bajpai-96304b403/" target="_blank">
     <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -168,7 +159,6 @@
     <img src="https://img.shields.io/badge/Follow-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
 <hr />
 <div align="center">
 
